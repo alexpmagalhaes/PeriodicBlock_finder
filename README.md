@@ -1,9 +1,9 @@
 # Periodic block finder
 
-## This is a repository for Periodic block finder described in 
-##Naderi & Magalhaes et al. 
-##"Suboptimization of human transcription factors 2024"
+## This is a repository for Periodic block finder described in Naderi & Magalhaes et al. 
+## "Suboptimization of human transcription factors 2024"
 
+*Author: Alexandre P. Magalhaes
 
 Main notebook will produce Supplementary Table 1 
 
